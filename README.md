@@ -1,4 +1,4 @@
-# <img alt="Logo" src="Logo_SimpleMobileTools.png" width="200" /> Simple Mobile Tools
+# <img alt="Logo" src="LOGO.png" width="200" /> Simple Mobile Tools
 "A group of simple, stupid, open source Android apps with customizable widgets, without annoying ads and unnecessary permissions."
 
 ---
