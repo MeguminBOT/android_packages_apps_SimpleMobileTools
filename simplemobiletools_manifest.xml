@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SimpleMobileTools/Simple-Commons" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Calculator" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Calendar" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Clock" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Gallery" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Notes" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-File-Manager" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Music-Player" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Draw" path="packages/SimpleMobileTools"/>
+</manifest>
