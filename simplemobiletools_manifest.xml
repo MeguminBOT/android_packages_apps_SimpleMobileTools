@@ -4,9 +4,15 @@
   <project name="SimpleMobileTools/Simple-Calculator" path="packages/SimpleMobileTools"/>
   <project name="SimpleMobileTools/Simple-Calendar" path="packages/SimpleMobileTools"/>
   <project name="SimpleMobileTools/Simple-Clock" path="packages/SimpleMobileTools"/>
-  <project name="SimpleMobileTools/Simple-Gallery" path="packages/SimpleMobileTools"/>
-  <project name="SimpleMobileTools/Simple-Notes" path="packages/SimpleMobileTools"/>
-  <project name="SimpleMobileTools/Simple-File-Manager" path="packages/SimpleMobileTools"/>
-  <project name="SimpleMobileTools/Simple-Music-Player" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Camera" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Contacts" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Dialer" path="packages/SimpleMobileTools"/>
   <project name="SimpleMobileTools/Simple-Draw" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Gallery" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-File-Manager" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Flashlight" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Music-Player" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Notes" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-SMS-Messenger" path="packages/SimpleMobileTools"/>
+  <project name="SimpleMobileTools/Simple-Voice-Recorder" path="packages/SimpleMobileTools"/>
 </manifest>
